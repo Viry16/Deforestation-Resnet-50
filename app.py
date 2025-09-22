@@ -8,7 +8,7 @@ import os
 # =====================
 # 1. Load Model
 # =====================
-MODEL_PATH = r"D:\PU\Semester 4\Python\Deep Learning\Final Project\resnet50_deforestation.keras"
+MODEL_PATH = "resnet50_deforestation.keras"
 
 # Optional: Check if file exists first
 if not os.path.exists(MODEL_PATH):
